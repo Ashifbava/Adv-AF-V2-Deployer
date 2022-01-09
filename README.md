@@ -4,7 +4,7 @@ Deploy to heroku.
 
 <!-- ## Railway
 
-[![Deploy on Railway](ttps://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Ashifbava/Adv-AF-V2-Deployer)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Ashifbava/Adv-AF-V2-Deployer)
 <br> -->
 
 ## Heroku
